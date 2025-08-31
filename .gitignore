@@ -1,0 +1,12 @@
+gpt2/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+images/  
+model.pth
+model_and_optimizer.pth
+model_and_optimizer_classifier.pth
+instruction-data.json
+instruction-data-with-response.json  
